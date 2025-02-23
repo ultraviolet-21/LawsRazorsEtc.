@@ -1,0 +1,79 @@
+Murphy’s Law: Anything that can go wrong will go wrong and at the worst possible time.
+
+Cunningham’s Law: The best way to get the correct answer on the internet is not to post a question but a wrong answer.
+
+Poe’s Law: Without any indication of tone, it is impossible to determine whether a comment on the internet is sarcastic or serious.
+
+Godwin’s Law: As an online discussion progresses, the more likely it becomes that someone brings up Hitler or the Nazis, regardless of the original topic (it approaches 1).
+
+Benford's Law of Controversy: Passion is inversely proportional to the amount of real information available.
+
+Conquest’s Third Law: The simplest way to explain the behavior of any bureaucratic organization is to assume that a cabal of its enemies controls it.
+
+Armstrong’s Law: Any mention of America not being the best dramatically increases the probability of an American mentioning the moon landing to prove American superiority.
+
+Layne's Law: Every debate is over the definition of a word or will eventually turn into a debate over the definition of a word
+
+Streisand Effect: An attempt to hide or censor a piece of information has the unintended consequence of publicizing the information more widely.
+
+Constitutional Principle: Everything that is not forbidden is allowed.
+
+Totalitarian Principle: Everything that is not forbidden is compulsory.
+
+Occam’s Razor: The simplest explanation is most likely true.
+
+Hanlon’s Razor: Never attribute to malice what can be attributed to stupidity.
+
+Hitchens’s Razor: What can be asserted without evidence can be dismissed without evidence.
+
+Hume’s Guillotine: Prescriptive claims cannot be derived from descriptive evidence.
+
+Newton’s Flaming Laser Sword: If something cannot be settled by experiment or observation, then it is not a matter worthy of debate.
+
+Sagan Standard: Extraordinary claims require extraordinary evidence.
+
+Duck Test: If it looks like a duck, swims like a duck, and quacks like a duck, it’s probably a duck.
+
+Infinite Monkey Theorem: A monkey randomly hitting keys for an infinitely long time will almost surely type any given text, including the complete works of Shakespeare.
+
+Ship of Theseus: If you have a ship and you replace the parts one by one until every part is eventually replaced, is it still the original ship? At what point does it stop being the original ship? If you construct a new ship with all the original parts, which ship is the original?
+
+Einstein Paradox: If you go back in time to when Albert Einstein was young and gave him the book on the Theory of Relativity, and he eventually published it as his own, who wrote the book?
+
+Grandfather Paradox: If you go back in time and kill your grandfather before your father was conceived, you will not exist. This also means you cannot time travel and kill your grandfather.
+
+Barber Paradox: In a small town, a male barber shaves men if and only if they do not shave themselves. Who shaves the barber?
+
+Omnipotence Paradox: Can an omnipotent being create a rock that is too heavy for it to lift?
+
+Paradox of Plenty: Countries with abundant natural resources tend to have less development and economic growth than countries with fewer resources.
+
+Tree Paradox: If a tree falls in a forest and no one is around to hear it, does it make a sound?
+
+Paradox of Tolerance: If a society\’s tolerance is inclusive of the intolerant, then intolerance will eventually rule. This is why we should not tolerate intolerance. (Some think of tolerance as a peace treaty, so if one party is intolerant, the other doesn\’t need to be tolerant toward them.)
+
+Preparedness Paradox: If an individual or community acts to mitigate the events of a potential catastrophe, the avoided danger will be perceived as much less dangerous because the damage was limited.
+
+Survivorship Bias: Concentrating on entities that passed a selection test vs. those that did not leads to incorrect conclusions due to incomplete data.
+
+Pareto Principle: In many cases, 80% of the consequences stem from 20% of the causes.
+
+Dunning-Kruger Effect: The more confident one is in his/her knowledge of a topic, the less informed he/she actually is.
+
+Pygmalion Effect: Expectations of a person affect his/her behavior. (self-fulfilling prophecy)
+
+Well-Traveled Road Effect: The time it takes to traverse often traveled routes is underestimated, while the time it takes for less traveled routes is overestimated.
+
+Availability Heuristic: The tendency to overestimate the likelihood of events with a greater availability in memory.
+
+Baader-Meinhof Phenomenon: Something that has just recently come to one’s attention seems to appear very frequently afterward.
+
+Confirmation Bias: The tendency to search for, focus on, and remember information in a way that confirms one’s preconceptions.
+
+Hindsight Bias: The tendency to see past events as having been predictable.
+
+Outcome Bias: The tendency to judge a decision by its eventual outcome rather than the quality of the decision at the time it was made.
+
+Just World Hypothesis: The assumption that people get what they deserve and deserve what they get.
+
+Ultimate Attribution Error: The tendency to make an internal attribution to an entire group instead of individuals within the group.
