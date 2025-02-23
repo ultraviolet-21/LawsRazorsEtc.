@@ -11,7 +11,7 @@ def questions(laws_dict: dict) -> dict:
 def answer_questions(laws_dict: dict):
     '''Asks the user to answer all the questions'''
     try:
-        with open('answers.txt', 'w') as f:
+        with open('answers.txt', 'w') as f: #replace with your chosen file
             for key in questions(laws_dict):
                 answer = input(key + ': ' + laws_dict[key])
                 f.write(answer + '\n')
